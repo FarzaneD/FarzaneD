@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @FarzaneD
+- 🌱 I’m currently learning Data Analytics
